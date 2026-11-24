@@ -22,7 +22,7 @@ WPM Monitor 是一款 Windows 打字效能分析工具，於日常使用電腦�
 
 ### 使用方式
 
-1. 前往 [Releases](https://github.com/balla0603/WPM-Monitor/releases) 下載 Windows x64 版本（附件上傳後提供）。
+1. 前往 [Releases](https://github.com/balla0603/WPM-Monitor/releases) 下載 。
 2. 若下載 ZIP，先解壓縮，再執行 EXE。
 3. 正常使用電腦即可累積統計。
 4. 點擊主視窗右上方的「隱藏至系統匣」，可繼續背景監測。
