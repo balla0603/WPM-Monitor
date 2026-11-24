@@ -8,8 +8,6 @@
 
 [繁體中文](#繁體中文) · [English](#english) · [Releases](https://github.com/balla0603/WPM-Monitor/releases) · [Issues](https://github.com/balla0603/WPM-Monitor/issues)
 
-## 繁體中文
-
 WPM Monitor 是一款 Windows 打字效能分析工具，於日常使用電腦時自動統計打字速度、修正率及長期表現，無須另外進行打字測驗。
 
 ### 功能
@@ -47,8 +45,6 @@ WPM 以每五次有效輸入按鍵為一個標準字，依有效打字時間計�
 ### 系統需求
 
 Windows 10 / 11（64 位元）。可攜式執行檔，無須安裝 PowerShell 腳本。執行檔尚未數位簽署。
-
-## English
 
 WPM Monitor is a Windows typing analytics tool that automatically tracks typing speed, correction rates, and long-term typing performance during everyday computer use, without requiring dedicated typing tests.
 
