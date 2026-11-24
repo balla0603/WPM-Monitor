@@ -1,6 +1,6 @@
 # Changelog｜版本紀錄
 
-## v1.0.0 — Initial public version｜首次公開版本
+## v1.0.0 
 
 - Real-time gross and net WPM, KPM and correction statistics.
 - Median, P90, sustained peak speed and historical trends.
