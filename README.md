@@ -1,6 +1,6 @@
 # WPM Monitor
 
-**Typing analytics for Windows · Windows 打字效能分析工具**
+**Typing analytics for Windows · Windows 打字速度分析工具**
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/balla0603/WPM-Monitor/releases)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D4)
