@@ -3,11 +3,11 @@
 **了解你的真實打字速度，追蹤每一天的進步。**  
 **Measure your everyday typing speed. Track your progress over time.**
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-0078D4?style=for-the-badge)](https://github.com/balla0603/WPM-Monitor/releases/tag/v1.0.0)
+[![Download](https://img.shields.io/github/v/release/balla0603/WPM-Monitor?label=Download&color=0078D4&style=for-the-badge)](https://github.com/balla0603/WPM-Monitor/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-555?style=for-the-badge)
 ![Portable](https://img.shields.io/badge/Portable-x64-555?style=for-the-badge)
 
-[繁體中文](#繁體中文) · [English](#english) · [下載 Download](https://github.com/balla0603/WPM-Monitor/releases/tag/v1.0.0)
+[繁體中文](#繁體中文) · [English](#english) · [下載 Download](https://github.com/balla0603/WPM-Monitor/releases/latest)
 
 ## 繁體中文
 
@@ -31,7 +31,7 @@ WPM Monitor 是一款專為 Windows 設計的打字速度與效能分析工具�
 
 ### 立即下載
 
-**[下載 Windows 版（EXE）](https://github.com/balla0603/WPM-Monitor/releases/download/v1.0.0/WPM_Monitor_v1.0.0.exe)** · [ZIP 可攜版](https://github.com/balla0603/WPM-Monitor/releases/download/v1.0.0/WPM_Monitor_v1.0.0_Windows_x64.zip)
+**[下載最新 Windows 版（EXE／ZIP）](https://github.com/balla0603/WPM-Monitor/releases/latest)**
 
 適用於 Windows 10 / 11（64 位元），免安裝。
 
@@ -72,7 +72,7 @@ No dedicated typing tests are required. Simply launch the app and use your compu
 
 ### Download
 
-**[Download for Windows (EXE)](https://github.com/balla0603/WPM-Monitor/releases/download/v1.0.0/WPM_Monitor_v1.0.0.exe)** · [Portable ZIP](https://github.com/balla0603/WPM-Monitor/releases/download/v1.0.0/WPM_Monitor_v1.0.0_Windows_x64.zip)
+**[Download latest Windows version (EXE / ZIP)](https://github.com/balla0603/WPM-Monitor/releases/latest)**
 
 Compatible with Windows 10 / 11 (64-bit). No installation required.
 
