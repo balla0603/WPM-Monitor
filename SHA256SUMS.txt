@@ -1,0 +1,2 @@
+3b098b6d69884a40662016a6bcee43712b2b13c2f3bc17a1c59831b812c727f3  WPM_Monitor_v1.0.0.exe
+3995ecd9efe28f0a84e3baf3f5499e7e6bc4feb3fd745e308ff7973464520fbd  WPM_Monitor_v1.0.0_Windows_x64.zip
