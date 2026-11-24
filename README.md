@@ -1,91 +1,94 @@
 # WPM Monitor
 
-**Typing analytics for Windows · Windows 打字速度分析工具**
+**了解你的真實打字速度，追蹤每一天的進步。**  
+**Measure your everyday typing speed. Track your progress over time.**
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/balla0603/WPM-Monitor/releases)
-![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D4)
-![Distribution](https://img.shields.io/badge/Distribution-Portable-lightgrey)
+[![Download](https://img.shields.io/badge/Download-v1.0.0-0078D4?style=for-the-badge)](https://github.com/balla0603/WPM-Monitor/releases/tag/v1.0.0)
+![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-555?style=for-the-badge)
+![Portable](https://img.shields.io/badge/Portable-x64-555?style=for-the-badge)
 
-[繁體中文](#繁體中文) · [English](#english) · [Releases](https://github.com/balla0603/WPM-Monitor/releases) · [Issues](https://github.com/balla0603/WPM-Monitor/issues)
+[繁體中文](#繁體中文) · [English](#english) · [下載 Download](https://github.com/balla0603/WPM-Monitor/releases/tag/v1.0.0)
 
-WPM Monitor 是一款 Windows 打字效能分析工具，於日常使用電腦時自動統計打字速度、修正率及長期表現，無須另外進行打字測驗。
+## 繁體中文
 
-### 功能
+### 你的日常打字速度有多快？
 
-- 即時 WPM、KPM、原始及淨打字速度。
-- 退格修正次數、修正率與估算準確率。
-- 速度中位數、P90、持續打字峰值及有效打字時間。
-- 每日、近 7 日及近 30 日統計與趨勢圖。
-- 可調整連續打字間隔門檻。
-- 系統匣背景執行、暫停與繼續監測。
-- CSV 資料匯出、深淺色主題、高 DPI 顯示。
+WPM Monitor 是一款專為 Windows 設計的打字速度與效能分析工具。在撰寫文件、工作、聊天或日常使用電腦的過程中，自動統計打字表現，讓你了解自己的實際輸入速度、修正習慣及長期進步幅度。
 
-### 使用方式
+不需要額外進行打字測驗。開啟程式後，照常使用電腦即可。
 
-1. 前往 [Releases](https://github.com/balla0603/WPM-Monitor/releases) 下載 。
-2. 若下載 ZIP，先解壓縮，再執行 EXE。
-3. 正常使用電腦即可累積統計。
-4. 點擊主視窗右上方的「隱藏至系統匣」，可繼續背景監測。
+### 主要功能
 
-### 統計指標
-
-| 指標 | 說明 |
+| 功能 | 說明 |
 | --- | --- |
-| Gross WPM | 原始打字速度 |
-| Net WPM | 扣除估算修正量後的速度 |
-| KPM | 每分鐘有效按鍵數 |
-| Accuracy | 估算準確率 |
-| Correction Rate | 修正率 |
-| Median / P90 | 速度中位數及第 90 百分位 |
-| Peak WPM | 持續打字峰值速度 |
-| Active Time | 有效打字時間 |
+| 即時速度 | 查看當下的 WPM 與 KPM，以及原始和淨打字速度。 |
+| 準確率分析 | 統計退格次數、修正率及估算準確率。 |
+| 進階統計 | 查看速度中位數、P90、峰值速度及有效打字時間。 |
+| 歷史趨勢 | 追蹤每日、近 7 日與近 30 日的打字表現。 |
+| 背景監測 | 隱藏至系統匣，隨時暫停或繼續統計。 |
+| 個人化設定 | 調整打字間隔門檻、切換深淺色主題。 |
+| 資料匯出 | 將歷史統計匯出為 CSV。 |
 
-WPM 以每五次有效輸入按鍵為一個標準字，依有效打字時間計算；中文輸入採按鍵速度估算。
+### 立即下載
 
-### 系統需求
+**[下載 Windows 版（EXE）](https://github.com/balla0603/WPM-Monitor/releases/download/v1.0.0/WPM_Monitor_v1.0.0.exe)** · [ZIP 可攜版](https://github.com/balla0603/WPM-Monitor/releases/download/v1.0.0/WPM_Monitor_v1.0.0_Windows_x64.zip)
 
-Windows 10 / 11（64 位元）。可攜式執行檔，無須安裝 PowerShell 腳本。執行檔尚未數位簽署。
+適用於 Windows 10 / 11（64 位元），免安裝。
 
-WPM Monitor is a Windows typing analytics tool that automatically tracks typing speed, correction rates, and long-term typing performance during everyday computer use, without requiring dedicated typing tests.
+1. 下載並執行程式；若下載 ZIP，請先解壓縮。
+2. 正常使用電腦，即可開始累積打字統計。
+3. 點擊右上方「隱藏至系統匣」，讓程式在背景持續運作。
 
-### Features
+### 了解你的數據
 
-- Real-time WPM, KPM, gross and estimated net typing speed.
-- Backspace counts, correction rates, and estimated accuracy.
-- Median WPM, P90, sustained peak speed, and active typing time.
-- Daily, 7-day, and 30-day statistics and trends.
-- Adjustable active typing interval threshold.
-- System tray monitoring with pause and resume controls.
-- CSV export, light and dark themes, and high-DPI display support.
+- **WPM**：每分鐘標準字數，以每五次有效輸入按鍵為一個標準字。
+- **KPM**：每分鐘有效按鍵數。
+- **Net WPM**：扣除估算修正量後的打字速度。
+- **P90**：第 90 百分位速度，反映較高水準的打字表現。
 
-### Getting started
+中文輸入以按鍵速度估算，不等同於每分鐘實際輸出的中文字數。
 
-1. Download the Windows x64 package from [Releases](https://github.com/balla0603/WPM-Monitor/releases) once the release assets are available.
-2. Extract the ZIP if applicable and launch the executable.
-3. Use your computer normally to accumulate typing statistics.
-4. Use the top-right tray button to hide the window and continue monitoring.
+---
 
-### Metrics
+## English
 
-| Metric | Description |
+### How fast do you type in everyday life?
+
+WPM Monitor is a typing speed and performance analytics app for Windows. Whether you are writing documents, working, or chatting, it tracks your typing performance and helps you understand your input speed, correction habits, and progress over time.
+
+No dedicated typing tests are required. Simply launch the app and use your computer as usual.
+
+### Key features
+
+| Feature | Description |
 | --- | --- |
-| Gross WPM | Gross typing speed |
-| Net WPM | Estimated speed after corrections |
-| KPM | Effective keystrokes per minute |
-| Accuracy | Estimated typing accuracy |
-| Correction Rate | Rate of corrections |
-| Median / P90 | Median and 90th-percentile speed |
-| Peak WPM | Sustained peak typing speed |
-| Active Time | Active typing duration |
+| Real-time speed | View live WPM, KPM, gross and estimated net typing speed. |
+| Accuracy insights | Track backspaces, correction rates, and estimated accuracy. |
+| Advanced statistics | View median speed, P90, peak speed, and active typing time. |
+| Historical trends | Track daily, 7-day, and 30-day typing performance. |
+| Background monitoring | Hide the app to the system tray, and pause or resume at any time. |
+| Customization | Adjust the typing interval threshold and switch between light and dark themes. |
+| Data export | Export historical statistics as CSV. |
 
-WPM uses five effective keystrokes per standard word and active typing duration. For Chinese input methods, WPM is a keystroke-based estimate.
+### Download
 
-### System requirements
+**[Download for Windows (EXE)](https://github.com/balla0603/WPM-Monitor/releases/download/v1.0.0/WPM_Monitor_v1.0.0.exe)** · [Portable ZIP](https://github.com/balla0603/WPM-Monitor/releases/download/v1.0.0/WPM_Monitor_v1.0.0_Windows_x64.zip)
 
-Windows 10 / 11 (64-bit). Portable executable; no PowerShell script installation required. The executable is currently unsigned.
+Compatible with Windows 10 / 11 (64-bit). No installation required.
 
-## Feedback｜問題回報
+1. Download and launch the app. Extract the ZIP first if applicable.
+2. Use your computer normally to accumulate typing statistics.
+3. Use the tray button at the top right to keep monitoring in the background.
 
-[Report a bug or request a feature｜回報問題或提出功能建議](https://github.com/balla0603/WPM-Monitor/issues/new/choose)
+### Understanding your metrics
 
-[Changelog｜版本紀錄](CHANGELOG.md)
+- **WPM**: Standard words per minute, calculated using five effective input keystrokes per word.
+- **KPM**: Effective keystrokes per minute.
+- **Net WPM**: Estimated typing speed after corrections.
+- **P90**: 90th-percentile speed, representing the upper range of typing performance.
+
+For Chinese input methods, WPM is a keystroke-based estimate rather than the number of Chinese characters produced per minute.
+
+---
+
+[Releases｜版本下載](https://github.com/balla0603/WPM-Monitor/releases) · [Changelog｜更新紀錄](CHANGELOG.md) · [Feedback｜問題回報與功能建議](https://github.com/balla0603/WPM-Monitor/issues/new/choose)
